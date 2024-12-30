@@ -1,32 +1,11 @@
-**Tugas Akhir**
----
-Idensitas ==========================
-|Nama           : Dzia Ulhaq       |
-|NIM            : 1232050176       |
-|Kelas          : 3E/2024          |
-====================================
-
-Tugas Akhir ========================
-|Mata Kuliah    : Program Komputer |
-|Tugas          : Membuat Program  |
-|                 Matematika       |
-|Bahasa          : Python          |
-|Dosen pengampu : Rikirik          |
-|                 Nurdiansyah, M.Pd|
-====================================
----
-
-**Program Belajar Matematika Geometri Bangun Datar**
+# Program Belajar Matematika Geometri Bangun Datar
 
 Deskripsi:
 Program ini dibuat untuk memenuhi tugas akhir dari mata kuliah Porgram Komputer, Pendidikan Matematika 2024.
 Program ini juga bertujuan untuk menjadi gambaran awal dari aplikasi pembelajaran Matematika Geometri Bangun Datar, dengan meneparkan gameplay seperti dungeon seperti game-game saat ini, menurut saya ini cukup menarik.
 
-Terima kasih kepada Pak Rikrik Nurdiansyah, M.Pd karena telah memberikan pembelajaran pada mata kuliah program komputer dengan bahasa pemograman python. Saya berharap pembelajaran yang telah saya pelajari bisa bermanfaat bagi saya untuk kedepannya.
-====================================
-
 Untuk penjelasan lebih lengkapnya ada di bawah ini:
-
+```
 **Menu Utama**
 = Belajar Matematika: Geometri =
 ============= MENU =============
@@ -48,7 +27,7 @@ Untuk penjelasan lebih lengkapnya ada di bawah ini:
 [5] Jajar Genjang ▱      
 [6] Lingkaran ⬤          
 =================================
-
+```
 ## **Struktur file**
 
 ```
